@@ -3,7 +3,7 @@
 Hi, I'm Shyam – Aspiring Data Analyst
 
 I worked on real world data sets from various sources, and created this projects.
-This projects helpmed me in understanding the business problems, skills to explore, clean and present the insights .
+This projects helped me in understanding the business problems, skills to explore, clean and present the insights .
 
 Tools & Skills I’m Comfortable With:
 
