@@ -38,3 +38,16 @@ To prepare the data for analysis, I performed the following key steps:
 	Used self-joins or grouping with conditions to list directors who have worked in both genres, including counts for each.
 
 	Strengthened my ability to filter and compare subsets of data.
+
+<h4>Key Learnings</h4>
+
+•	Gained hands-on experience in data cleaning using SQL, especially working with missing values and long text fields.
+
+•	Practiced data modeling by normalizing and splitting multi-value fields.
+
+•	Learned how to perform complex queries, including filtering, aggregation, joins, and window functions.
+
+•	Improved my ability to answer business-style questions with clean, readable SQL queries.
+
+•	Understood how SQL is used in real data analysis projects to generate insights and drive decisions.
+
